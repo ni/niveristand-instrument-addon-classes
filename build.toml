@@ -1,0 +1,21 @@
+[archive]
+build_output_dir = 'Built'
+archive_location = '\\nirvana\Measurements\VeriStandAddons\instrument_addon_classes'
+
+[projects.protections]
+path = 'Source\Protections\Protections.lvproj'
+
+[projects.protocols]
+path = 'Source\Protocols\Protocols.lvproj'
+
+[[build.steps]]
+name = 'Protections Library'
+type = 'lvBuildSpecAllTargets'
+project = '{protections}'
+build_spec = 'Protections'
+
+[[build.steps]]
+name = 'Protocols Library'
+type = 'lvBuildSpecAllTargets'
+project = '{protocols}'
+build_spec = 'Protocols'
