@@ -19,10 +19,8 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Tests" Type="Folder">
-			<Item Name="ListenerVi" Type="Folder">
-				<Item Name="Listener VI.vi" Type="VI" URL="../Tests/ListenerVi/Listener VI.vi"/>
-				<Item Name="Listener.lvclass" Type="LVClass" URL="../Tests/ListenerVi/Listener.lvclass"/>
-				<Item Name="Protocols.lvlib" Type="Library" URL="../Protocols.lvlib"/>
+			<Item Name="Listener" Type="Folder">
+				<Item Name="Listener.lvclass" Type="LVClass" URL="../Tests/Listener/Listener.lvclass"/>
 			</Item>
 			<Item Name="Unit Tests" Type="Folder">
 				<Item Name="TCP Tests" Type="Folder">
@@ -30,6 +28,7 @@
 				</Item>
 			</Item>
 		</Item>
+		<Item Name="Protocols.lvlib" Type="Library" URL="../Protocols.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Array Size(s)__ogtk__jki_vi_tester.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/Array Size(s)__ogtk__jki_vi_tester.vi"/>
@@ -329,7 +328,6 @@
 				<Item Name="VITesterUtilities.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/VITesterUtilities.lvlib"/>
 				<Item Name="Waveform Subtype Enum__ogtk__jki_vi_tester.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/Waveform Subtype Enum__ogtk__jki_vi_tester.ctl"/>
 			</Item>
-			<Item Name="Operation Ctl.ctl" Type="VI" URL="../Tests/ListenerVi/ListenerClassControls/Operation Ctl.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
