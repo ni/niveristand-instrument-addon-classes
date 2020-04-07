@@ -19,12 +19,11 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Tests" Type="Folder">
-			<Item Name="ListenerVi" Type="Folder">
-				<Item Name="Listener VI.vi" Type="VI" URL="../Tests/ListenerVi/Listener VI.vi"/>
-				<Item Name="Listener.lvclass" Type="LVClass" URL="../Tests/ListenerVi/Listener.lvclass"/>
-				<Item Name="Protocols.lvlib" Type="Library" URL="../Protocols.lvlib"/>
+			<Item Name="Listener" Type="Folder">
+				<Item Name="Listener.lvclass" Type="LVClass" URL="../Tests/Listener/Listener.lvclass"/>
 			</Item>
 		</Item>
+		<Item Name="Protocols.lvlib" Type="Library" URL="../Protocols.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
@@ -40,7 +39,6 @@
 				<Item Name="VISA Configure Serial Port (Serial Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Serial Instr).vi"/>
 				<Item Name="VISA Flush IO Buffer Mask.ctl" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Flush IO Buffer Mask.ctl"/>
 			</Item>
-			<Item Name="Operation Ctl.ctl" Type="VI" URL="../Tests/ListenerVi/ListenerClassControls/Operation Ctl.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
