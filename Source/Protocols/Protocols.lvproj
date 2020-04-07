@@ -22,7 +22,7 @@
 			<Item Name="ListenerVi" Type="Folder">
 				<Item Name="Listener VI.vi" Type="VI" URL="../Tests/ListenerVi/Listener VI.vi"/>
 				<Item Name="Listener.lvclass" Type="LVClass" URL="../Tests/ListenerVi/Listener.lvclass"/>
-				<Item Name="Localhost Protocols.lvlib" Type="Library" URL="../Tests/ListenerVi/Localhost Protocols.lvlib"/>
+				<Item Name="Protocols.lvlib" Type="Library" URL="../Protocols.lvlib"/>
 			</Item>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -41,7 +41,6 @@
 				<Item Name="VISA Flush IO Buffer Mask.ctl" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Flush IO Buffer Mask.ctl"/>
 			</Item>
 			<Item Name="Operation Ctl.ctl" Type="VI" URL="../Tests/ListenerVi/ListenerClassControls/Operation Ctl.ctl"/>
-			<Item Name="Protocols.lvlib" Type="Library" URL="../Protocols.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
