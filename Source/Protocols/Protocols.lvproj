@@ -23,7 +23,7 @@
 				<Item Name="Listener.lvclass" Type="LVClass" URL="../Tests/Listener/Listener.lvclass"/>
 			</Item>
 			<Item Name="Unit Tests" Type="Folder">
-				<Item Name="TCP Tests" Type="Folder">
+				<Item Name="Ethernet Protocols Tests" Type="Folder">
 					<Item Name="Ethernet Protocol Tests.lvclass" Type="LVClass" URL="../Tests/Unit Tests/TCP Tests/Ethernet Protocol Tests.lvclass"/>
 				</Item>
 			</Item>
