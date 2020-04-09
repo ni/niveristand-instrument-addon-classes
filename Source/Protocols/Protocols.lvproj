@@ -27,6 +27,7 @@
 					<Item Name="Ethernet Protocol Tests.lvclass" Type="LVClass" URL="../Tests/Unit Tests/TCP Tests/Ethernet Protocol Tests.lvclass"/>
 				</Item>
 			</Item>
+			<Item Name="Constants.vi" Type="VI" URL="../Tests/Constants.vi"/>
 		</Item>
 		<Item Name="Protocols.lvlib" Type="Library" URL="../Protocols.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
