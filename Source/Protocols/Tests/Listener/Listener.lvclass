@@ -172,6 +172,15 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 	</Item>
+	<Item Name="Constants.vi" Type="VI" URL="../ListenerClassMethods/Constants.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"*!!!!!Q!?1$$`````&amp;%.V=H*F&lt;H1A1W^N&lt;7&amp;O:#"$&lt;W2F!!!:1!I!%E&amp;,)&amp;2$5#"%982B)%RF&lt;G&gt;U;!!!#A"1!!)!!!!"!!%!!A!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1082130944</Property>
+	</Item>
 	<Item Name="Execute Network Operation.vi" Type="VI" URL="../ListenerClassMethods/Execute Network Operation.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'%!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!3%%RJ=X2F&lt;G6S,GRW9WRB=X-!!"2-;8.U:7ZF=C"0&gt;81O&lt;(:D&lt;'&amp;T=Q!!3!$R!!!!!!!!!!)14'FT&gt;'6O:8)O&lt;(:D&lt;'&amp;T=QV0='6S982J&lt;WYO9X2M!#&amp;!&amp;A!#"&amp;*F971&amp;6X*J&gt;'5!!!F0='6S982J&lt;WY!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!11$$`````"UVF=X.B:W5!-%"Q!"Y!!")14'FT&gt;'6O:8)O&lt;(:D&lt;'&amp;T=Q!!%URJ=X2F&lt;G6S)%FO,GRW9WRB=X-!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!'!!=!"!!)!!E$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!%!!!!!I!!!!!!!!!!!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#A!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
