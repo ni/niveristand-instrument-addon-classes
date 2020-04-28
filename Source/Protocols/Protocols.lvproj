@@ -25,6 +25,7 @@
 			<Item Name="Unit Tests" Type="Folder">
 				<Item Name="Ethernet Protocols Tests" Type="Folder">
 					<Item Name="Ethernet Protocol Tests.lvclass" Type="LVClass" URL="../Tests/Unit Tests/Ethernet Protocols Tests/Ethernet Protocol Tests.lvclass"/>
+					<Item Name="Serial Protocols Tests.lvclass" Type="LVClass" URL="../Tests/Unit Tests/Serial Protocols Tests/Serial Protocols Tests.lvclass"/>
 				</Item>
 			</Item>
 			<Item Name="Constants.vi" Type="VI" URL="../Tests/Constants.vi"/>
