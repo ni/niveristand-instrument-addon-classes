@@ -15,6 +15,7 @@ LabVIEW 2018
 - NI STM 2.1.0.2 (ONLY)
 - NI AMC 3.3.0.20
 - NI GXML 1.4.2.8
+- jki_labs_tool_vi_tester >= v3.0.2.294-1
 
 ## Git History & Rebasing Policy
 
