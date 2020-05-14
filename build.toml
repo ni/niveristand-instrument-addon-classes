@@ -1,5 +1,5 @@
 [archive]
-build_output_dir = 'Built'
+build_output_dir = 'Source\Built'
 archive_location = '\\nirvana\Measurements\VeriStandAddons\instrument_addon_classes'
 
 [projects.protections]
