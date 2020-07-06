@@ -26,7 +26,7 @@
 				<Item Name="Ethernet Protocols Tests" Type="Folder">
 					<Item Name="Ethernet Protocol Tests.lvclass" Type="LVClass" URL="../Tests/Unit Tests/Ethernet Protocols Tests/Ethernet Protocol Tests.lvclass"/>
 				</Item>
-				<Item Name="Scripting API Protocols Factories" Type="Folder">
+				<Item Name="Scripting API Protocol Factories Tests" Type="Folder">
 					<Item Name="Instrument Addon Scripting API Protocol Factories Unit Tests.lvclass" Type="LVClass" URL="../Tests/Unit Tests/Instrument Addon Scripting API Protocol Factories Unit Tests/Instrument Addon Scripting API Protocol Factories Unit Tests.lvclass"/>
 				</Item>
 				<Item Name="Serial Protocols Tests" Type="Folder">
