@@ -18,7 +18,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Protections Unit Tests.lvclass" Type="LVClass" URL="../Tests/Unit Tests/Protections Unit Tests/Protections Unit Tests.lvclass"/>
+		<Item Name="Instrument Addon Protections Unit Tests.lvclass" Type="LVClass" URL="../Tests/Unit Tests/Protections Unit Tests/Instrument Addon Protections Unit Tests.lvclass"/>
 		<Item Name="Protections.lvlib" Type="Library" URL="../Protections.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
