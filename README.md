@@ -8,8 +8,8 @@ LabVIEW 2018
 
 ## Dependencies
 
-- NI VISA >= 19.0
-- NI Serial >= 19.0
+- NI VISA >= 18.0
+- NI Serial >= 18.0
 - OpenG LabVIEW Data Library >= 4.2.0.21
 - OpenG Error Library >= 4.2.0.23
 - NI STM 2.1.0.2 (ONLY)
