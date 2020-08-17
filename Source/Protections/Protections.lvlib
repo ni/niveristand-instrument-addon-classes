@@ -4,6 +4,10 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Item Name="SubVIs" Type="Folder">
+		<Item Name="Get Protection List.vi" Type="VI" URL="../SubVIs/Get Protection List.vi"/>
+		<Item Name="Lookup Base Protection Class.vi" Type="VI" URL="../SubVIs/Lookup Base Protection Class.vi"/>
+	</Item>
 	<Item Name="Types" Type="Folder">
 		<Item Name="Protection.ctl" Type="VI" URL="../Types/Protection.ctl"/>
 	</Item>
