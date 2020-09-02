@@ -51,9 +51,18 @@
 		</Item>
 	</Item>
 	<Item Name="AK TCP Factory.vi" Type="VI" URL="../Methods/AK TCP Factory.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"A!!!!!A!%!!!!6!$Q!!Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"Y!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!"!!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'"!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!$:!=!!?!!!A$V"S&lt;X2P9W^M=SZM&gt;GRJ9AZ"3S"51V!O&lt;(:D&lt;'&amp;T=Q!!#E&amp;,)&amp;2$5#"0&gt;81!!":!5!!$!!!!!1!##56S=G^S)%FO)!!51$$`````#EF1)%&amp;E:(*F=X-!!!N!"A!%5'^S&gt;!!!(E!Q`````R2$&gt;8*S:7ZU)%.P&lt;7VB&lt;G1A1W^E:1!!7Q$R!!!!!!!!!!-05(*P&gt;'^D&lt;WRT,GRW&lt;'FC$E&amp;,)&amp;2$5#ZM&gt;G.M98.T%U&amp;,)&amp;2$5#"4:82U;7ZH=SZD&gt;'Q!)%"1!!-!"Q!)!!E015MA6%.1)&amp;.F&gt;(2J&lt;G&gt;T!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!#A!%!Q!!?!!!$1A!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!"!!!!!!!!!!!!%!#Q!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+	</Item>
+	<Item Name="AK TCP Settings.ctl" Type="VI" URL="../AK TCP Settings.ctl">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#A!!!!"!!51$$`````#EF1)%&amp;E:(*F=X-!!!N!!Q!%5'^S&gt;!!!(E!Q`````R2$&gt;8*S:7ZU)%.P&lt;7VB&lt;G1A1W^E:1!!7Q$R!!!!!!!!!!-05(*P&gt;'^D&lt;WRT,GRW&lt;'FC$E&amp;,)&amp;2$5#ZM&gt;G.M98.T%U&amp;,)&amp;2$5#"4:82U;7ZH=SZD&gt;'Q!)%"1!!-!!!!"!!)015MA6%.1)&amp;.F&gt;(2J&lt;G&gt;T!!%!!Q!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">1048576</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
