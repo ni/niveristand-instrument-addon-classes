@@ -10,6 +10,10 @@
 		<Item Name="Format AK Command.vi" Type="VI" URL="../AK/Format AK Command.vi"/>
 		<Item Name="Format AK Response.vi" Type="VI" URL="../AK/Format AK Response.vi"/>
 	</Item>
+	<Item Name="Palettes" Type="Folder">
+		<Item Name="Factories.mnu" Type="Document" URL="../Palettes/Factories.mnu"/>
+		<Item Name="Protocols.mnu" Type="Document" URL="../Palettes/Protocols.mnu"/>
+	</Item>
 	<Item Name="Protocol Parent" Type="Folder">
 		<Item Name="Protocol Parent.lvclass" Type="LVClass" URL="../Protocol Parent/Protocol Parent.lvclass"/>
 	</Item>
