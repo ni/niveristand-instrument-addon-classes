@@ -32,4 +32,5 @@
 	<Item Name="VISA" Type="Folder">
 		<Item Name="VISA.lvclass" Type="LVClass" URL="../VISA/VISA.lvclass"/>
 	</Item>
+	<Item Name="Protocol Factory.vi" Type="VI" URL="../Protocol Factory.vi"/>
 </Library>
