@@ -1,7 +1,6 @@
 #!/usr/bin/env groovy
 //Leave the above line alone.  It identifies this as a groovy script.
-@Library('vs-build-tools') _Disable 2018 builds
-dev/disable_2018_builds
+@Library('vs-build-tools') _
 
 def lvVersions = ['2019', '2020']
 
