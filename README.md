@@ -1,21 +1,24 @@
 # Instrument Addon Classes
 
-The **Instrument Addon Classes** are used in the [Instrument Custom Device](https://github.com/ni/niveristand-instrument-addon-custom-device) to handle the various instrument protocols and protection schemes over these protocols.
+The **Instrument Addon Classes** are used in the [Instrument Addon Custom Device](https://github.com/ni/niveristand-instrument-addon-custom-device) to handle the various instrument protocols and protection schemes over these protocols.
 
-## LabVIEW Version
+If installing the **Instrument Addon Custom Device** from a [released package](https://github.com/ni/niveristand-instrument-addon-custom-device/releases/latest), you do not need to separately clone or install this component. Only making modifications to the custom device's protocol or protections require using this repository as source.
 
-LabVIEW 2018
+## LabVIEW Source Code Version
+
+LabVIEW 2019
 
 ## Dependencies
 
-- NI VISA >= 18.0
-- NI Serial >= 18.0
-- OpenG LabVIEW Data Library >= 4.2.0.21
-- OpenG Error Library >= 4.2.0.23
-- NI STM 2.1.0.2 (ONLY)
-- NI AMC 3.3.0.20
-- NI GXML 1.4.2.8
-- JKI VI Tester >= 3.0.2.294-1
+- [LabVIEW 2019 or later](https://www.ni.com/en-us/support/downloads/software-products/download.labview.html)
+- [LabVIEW Real-Time Module](https://www.ni.com/en-us/support/downloads/software-products/download.labview-real-time-module.html)
+- [VeriStand 2019 or later](https://www.ni.com/en-us/support/downloads/software-products/download.veristand.html)
+- [NI-VISA 19.0 or later](https://www.ni.com/en-us/support/downloads/drivers/download.ni-visa.html)
+- [NI-Serial 19.0 or later](https://www.ni.com/en-us/support/downloads/drivers/download.ni-serial.html)
+- [VeriStand Custom Device Development Tools](https://github.com/ni/niveristand-custom-device-development-tools)
+  - Install the latest package from the [release page](https://github.com/ni/niveristand-custom-device-development-tools/releases)
+- [VeriStand Custom Device Testing Tools](https://github.com/ni/niveristand-custom-device-testing-tools)
+  - Install the latest package from the [release page](https://github.com/ni/niveristand-custom-device-testing-tools/releases)
 
 ## Git History & Rebasing Policy
 
