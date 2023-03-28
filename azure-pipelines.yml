@@ -36,5 +36,5 @@ stages:
           buildSpec: 'Protocols'
 
       releaseVersion: '23.3.0'
-      buildOutputLocation: 'Built'
+      buildOutputLocation: 'Source\Built'
       archiveLocation: '\\nirvana\Measurements\VeriStandAddons\instrument_addon_classes'
