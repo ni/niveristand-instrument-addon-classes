@@ -6,7 +6,7 @@ If installing the **Instrument Addon Custom Device** from a [released package](h
 
 ## LabVIEW Source Code Version
 
-LabVIEW 2020
+LabVIEW 2024
 
 ## Dependencies
 
