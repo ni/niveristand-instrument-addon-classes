@@ -38,3 +38,5 @@ stages:
       releaseVersion: '26.5.0'
       buildOutputLocation: 'Source\Built'
       archiveLocation: '\\nirvana\Measurements\VeriStandAddons\instrument_addon_classes'
+      repoName: 'niveristand-instrument-addon-classes'
+      createNetCoreRepo: true
