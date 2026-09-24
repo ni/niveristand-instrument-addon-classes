@@ -12,4 +12,3 @@ XB-UserVisible: yes
 Section: Add-Ons
 XB-DisplayVersion: {display_version}
 XB-DisplayName: NI Instrument Addon Classes for VeriStand {veristand_version}
-Depends: {ni-veristand-{labview_version}} (>= {labview_short_version}.0.0)
