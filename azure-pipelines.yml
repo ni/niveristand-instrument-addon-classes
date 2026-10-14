@@ -17,12 +17,6 @@ stages:
   - template: azure-templates/stages.yml@niveristand-custom-device-build-tools
     parameters:
       lvVersionsToBuild:
-        - version: '2024'
-          bitness: '64bit'
-        - version: '2025'
-          bitness: '64bit'
-        - version: '2026'
-          bitness: '64bit'
         - version: '2027'
           bitness: '64bit'
 
@@ -37,8 +31,8 @@ stages:
           target: 'All'
           buildSpec: 'Protocols'
 
-      releaseVersion: '26.8.0'
+      releaseVersion: '27.0.0'
       buildOutputLocation: 'Source\Built'
-      archiveLocation: '\\nirvana\Measurements\VeriStandAddons\instrument_addon_classes'
+      archiveLocation: '\\nirvana\Measurements\VeriStandAddons\netcore\instrument_addon_classes'
       repoName: 'niveristand-instrument-addon-classes'
-      createNetCoreRepo: true
+      createNetCoreRepo: false
